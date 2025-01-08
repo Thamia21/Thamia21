@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Thamia
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Thamia21&color=brightgreen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/thamia-keneilwe-450a2b302)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](your-portfolio-url)
 
 ## 👩‍💻 About Me
@@ -49,9 +49,9 @@ A modern digital kiosk system built with Flask, featuring real-time order manage
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](your-linkedin-url)
+- 💼 [LinkedIn](www.linkedin.com/in/thamia-keneilwe-450a2b302)
 - 🌐 [Portfolio](your-portfolio-url)
-- 📧 [Email](mailto:your-email@example.com)
+- 📧 [Email](thamiakeneilwe1@gmail.com)
 
 ### 🎯 Goals for 2025
 
